@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-snt+i(ta%0kn=483*27p8b&y452&nbhvto@eth0))24nxpm224
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ALLOWED_HOSTS = ['face-detection-zjo8.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS =['face-detection-zjo8.onrender.com', 'localhost', '127.0.0.1']
 
 
 
